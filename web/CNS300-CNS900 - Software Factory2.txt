@@ -1,0 +1,33 @@
+Cencosud
+
+Damián
+Nicolás
+Patricio
+Juan - QA
+Christian - Arquitectura
+
+Damián - Reunión con Juan y Carolina (primera versión de la especificación de la PMO para comenzar la próxima semana)
+60hs en el mes - Crear 7 workflows, va a ser uno igual que se va a replicar. Posiblemente se agrega un desarrollador más.
+Grupo de AD de producción.
+
+24 SDL
+40 - AF
+160 - Dev
+40 - QA
+
+169 - Buscar tareas, cambiar el filtro. 
+24 horas.
+
+187 - 1h
+165 - Tienen que mandar un script, de dónde están sacando el país. 8hs (cambia de prioridad si llega)
+160 - Se tiene que revisar porque no son 4hs
+96 - Revisar dónde va el mensaje. Fernanda
+190 - Pablo lo va a revisar.
+
+1-Nombres y correos de todas las personas del equipo. Que me copien a mi correo cbarrojo@prismamp.com
+2-¿Hay grupos de distribución?
+3-Reuniones predefinidas.
+4-Cierre de sprints, ¿reportes en Jira?
+5-Ambientes, ¿Información Funcional? Cencosud 
+
+
