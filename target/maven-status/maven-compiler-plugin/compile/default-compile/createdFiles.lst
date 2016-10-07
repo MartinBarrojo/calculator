@@ -1,9 +1,0 @@
-baufest\devops\calculator\calcApplication.class
-baufest\devops\calculator\api\Saying.class
-baufest\devops\calculator\resources\AdditionResource.class
-baufest\devops\calculator\resources\HelloWorldResource.class
-baufest\devops\calculator\api\Result.class
-baufest\devops\calculator\health\Addend2HealthCheck.class
-baufest\devops\calculator\health\Addend1HealthCheck.class
-baufest\devops\calculator\calcConfiguration.class
-baufest\devops\calculator\health\TemplateHealthCheck.class
